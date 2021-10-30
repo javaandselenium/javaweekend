@@ -21,7 +21,7 @@ public class Test0 {
 	System.out.println(s.substring(3));
 	System.out.println(s.lastIndexOf('u'));
 	
-
+System.out.println("heelo");
 	}
 
 }
